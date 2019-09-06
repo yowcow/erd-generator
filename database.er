@@ -1,0 +1,10 @@
+[place]
+*id
+name
+
+[person]
+*id
+name
++birth_place_id
+
+place 1--* person
